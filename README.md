@@ -1,4 +1,4 @@
-# reservamesas_powerapps
+# Novo Normal - Reserva de mesas
 aplicativo.msapp
 
 Esse aplicativo foi desenvolvido para auxiliar no controle de reservas de mesas no escritório considerando um modelo híbrido em que as equipes terão 1 semana presencial e 3 semanas em home office com mesas compartilhadas e revezamento. 
