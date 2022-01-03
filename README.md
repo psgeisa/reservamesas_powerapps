@@ -7,7 +7,7 @@ A ideia é que na semana de cada equipe as posições sejam "fixas", ao mesmo te
 
 
 
-🎥 https://www.youtube.com/watch?v=oMHUc5VFeaM
+🎥 https://www.youtube.com/watch?v=oMHUc5VFeaM (funcionamento do app)
 
 --
 
