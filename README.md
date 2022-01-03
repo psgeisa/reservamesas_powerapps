@@ -1,7 +1,7 @@
 # Novo Normal - Reserva de mesas
 aplicativo.msapp
 
-Esse aplicativo foi desenvolvido para auxiliar no controle de reservas de mesas no escritório considerando um modelo híbrido em que as equipes terão 1 semana presencial e 3 semanas em home office com mesas compartilhadas e revezamento. 
+Esse aplicativo foi desenvolvido para auxiliar no controle de reservas de mesas no escritório considerando um modelo híbrido em que as equipes terão 1 semana presencial e 3 semanas em home office com mesas compartilhadas/revezamento. 
 
 A ideia é que na semana de cada equipe as posições sejam "fixas", ao mesmo tempo que, se alguém quiser/precisar ir para o escritório fora da data combinada, consiga reservar qualquer mesa livre (dispensa confirmação de reserva, tudo automático mesmo).
 
