@@ -59,7 +59,7 @@ Sharepoint Library: imagens das pessoas
 
 ClearCollect: tabela do Layout
 
-(minha base dedos é claramente fictícia com os personagens do arrowverse, mas os nomes/tipos de colunas são padrão, basta incluir os dados das pessoas da empresa)
+(minha base dados é claramente fictícia com os personagens do arrowverse, mas os nomes/tipos de colunas são padrão, basta incluir os dados das pessoas da empresa)
 
 --
 
